@@ -731,7 +731,7 @@ body._touch .menu__list > li._active .menu__arrow {
 
 .servicescontainer__imgbg {
   width: 50%;
-  background: url(../5.IMG/600000977493b0.png) 0 0/100% 100% no-repeat;
+  background: url(5.IMG/600000977493b0.png) 0 0/100% 100% no-repeat;
 }
 
 .specialoffers {
@@ -746,8 +746,8 @@ body._touch .menu__list > li._active .menu__arrow {
   max-height: 100vh;
   height: 100vh;
   min-width: 0;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(56, 55, 55, 0.651)), to(rgba(32, 32, 32, 0.534))), url("../5.IMG/Sborka_sh.jpg");
-  background-image: linear-gradient(to top, rgba(56, 55, 55, 0.651), rgba(32, 32, 32, 0.534)), url("../5.IMG/Sborka_sh.jpg");
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(56, 55, 55, 0.651)), to(rgba(32, 32, 32, 0.534))), url("5.IMG/Sborka_sh.jpg");
+  background-image: linear-gradient(to top, rgba(56, 55, 55, 0.651), rgba(32, 32, 32, 0.534)), url("5.IMG/Sborka_sh.jpg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -852,13 +852,13 @@ body._touch .menu__list > li._active .menu__arrow {
 /* Стрелка влево */
 .specialoffers__slider .slick-arrow.slick-prev {
   left: -40px;
-  background: url("../5.IMG/slider__img/- (1).png") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img/- (1).png") 0 0/100% no-repeat;
 }
 
 /* Стрелка вправо */
 .specialoffers__slider .slick-arrow.slick-next {
   right: -40px;
-  background: url("../5.IMG/slider__img/-.png") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img/-.png") 0 0/100% no-repeat;
 }
 
 .specialoffers__slider .slick-dots {
@@ -883,7 +883,7 @@ body._touch .menu__list > li._active .menu__arrow {
   font-size: 0;
   width: 15px;
   height: 15px;
-  background: url("../5.IMG/slider__img/o2.png") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img/o2.png") 0 0/100% no-repeat;
 }
 
 /* Элемент точки */
@@ -891,7 +891,7 @@ body._touch .menu__list > li._active .menu__arrow {
   font-size: 0;
   width: 15px;
   height: 15px;
-  background: url("../5.IMG/slider__img/o.png") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img/o.png") 0 0/100% no-repeat;
 }
 
 .chooseus {
@@ -1078,7 +1078,7 @@ body._touch .menu__list > li._active .menu__arrow {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: url("../5.IMG/slider__img--coments/l.svg") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img--coments/l.svg") 0 0/100% no-repeat;
 }
 
 .reviews__slider .slick-arrow.slick-prev:active {
@@ -1092,7 +1092,7 @@ body._touch .menu__list > li._active .menu__arrow {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: url("../5.IMG/slider__img--coments/r.svg") 0 0/100% no-repeat;
+  background: url("5.IMG/slider__img--coments/r.svg") 0 0/100% no-repeat;
 }
 
 .reviews__slider .slick-arrow.slick-next:active {
@@ -1184,7 +1184,7 @@ body._touch .menu__list > li._active .menu__arrow {
   top: 250px;
   width: 50px;
   height: 50px;
-  background: url("../5.IMG/partners__slider/rightS.png") 0 0/100% no-repeat;
+  background: url("5.IMG/partners__slider/rightS.png") 0 0/100% no-repeat;
 }
 
 .partners__slider .slick-arrow.slick-prev:active {
@@ -1197,7 +1197,7 @@ body._touch .menu__list > li._active .menu__arrow {
   right: 45%;
   width: 50px;
   height: 50px;
-  background: url("../5.IMG/partners__slider/leftS.png") 0 0/100% no-repeat;
+  background: url("5.IMG/partners__slider/leftS.png") 0 0/100% no-repeat;
 }
 
 .partners__slider .slick-arrow.slick-next:active {
@@ -1282,7 +1282,7 @@ body._touch .menu__list > li._active .menu__arrow {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: url("../5.IMG/app.png") 0 0/100%;
+  background: url("5.IMG/app.png") 0 0/100%;
 }
 
 .footer__column--f3 .footer__app:active {
